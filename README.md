@@ -1,2 +1,0 @@
-# PureBasic
-Workshop B3
